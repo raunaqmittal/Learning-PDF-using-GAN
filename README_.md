@@ -40,15 +40,15 @@ Where:
 a_r = 0.5 (r mod 7)\
 b_r = 0.3 (r mod 5 + 1)
 
-For roll number 102303756:
+For roll number 102303752:
 
-r mod 7 = 2\
-r mod 5 = 1
+r mod 7 = 5\
+r mod 5 = 2
 
 Therefore:
 
-a_r = 1.0\
-b_r = 0.6
+a_r = 2.5\
+b_r = 0.8999
 
 Final transformation:
 
